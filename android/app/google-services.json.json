@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023105042783",
+    "project_id": "viroklipz",
+    "storage_bucket": "viroklipz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023105042783:android:187026d9ad7b7497554eea",
+        "android_client_info": {
+          "package_name": "com.viroklipz.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-3o1uiYnLF6UUPtTSVzq_jZXYhJd_fY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
