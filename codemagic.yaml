@@ -7,9 +7,9 @@ workflows:
     environment:
       flutter: stable
     scripts:
-      - name: Get Flutter packages
+      - name: upgrade dependencies
+        script: flutter pub upgrade
+      - name: get flutter packages
         script: flutter pub get
-      - name: Build APK
-        script: flutter build apk --release
     artifacts:
       - build/app/outputs/flutter-apk/app-release.apk
